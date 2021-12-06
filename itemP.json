@@ -1,0 +1,43 @@
+
+{
+    "id": 1,
+    "name": "Nguyen Van A",
+    "age": 26,
+    "src": "https://drive.google.com/uc?export=download&id=1gWcsfmVEtfX43u0NTZNIjX10V4MXtxGF",
+    "address": "Hanoi",
+    "phone": "0987677989",
+    "sympstoms": "Dry cough, cough with phlegm, difficulty breathing",
+    "date_diagnosis": "25/11/2021",
+    "date_ctscan": "26/11/2021"
+   },
+   {
+    "id": 2,
+    "name": "Nguyen Van B",
+    "age": 30,
+    "address": "Vinh Phuc",
+    "phone": "0987677987",
+    "sympstoms": "Smoke everyday, difficulty breathing",
+    "date_diagnosis": "22/11/2021",
+    "date_ctscan": "23/11/2021"
+   },
+   {
+    "id": 3,
+    "name": "Nguyen Van C",
+    "age": 27,
+    "address": "Hanoi",
+    "phone": "0987677956",
+    "sympstoms": "Dry cough, difficulty breathing, chest pain",
+    "date_diagnosis": "25/11/2021",
+    "date_ctscan": "26/11/2021"
+   },
+   {
+    "id": 4,
+    "name": "Nguyen Van D",
+    "age": 40,
+    "address": "Hanoi",
+    "phone": "0983471180",
+    "sympstoms": "Chest pain, pneumonia",
+    "date_diagnosis": "25/11/2021",
+    "date_ctscan": "26/11/2021"
+   }
+
